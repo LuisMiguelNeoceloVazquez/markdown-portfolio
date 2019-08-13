@@ -1,9 +1,5 @@
-- 01-name.md
-
-- 02-image.md
-
-- 03-links.md
-
-- 04-lists.md
-
-- 05-emphasis.md
+- name.md
+- image.md
+- links.md
+- lists.md
+- emphasis.md
