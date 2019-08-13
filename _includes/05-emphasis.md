@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_texto en italica_
+
+__texto en negritas__
+
+Texto normal
+
+Text __com__ _binado_
