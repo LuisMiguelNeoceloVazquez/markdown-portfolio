@@ -1,1 +1,1 @@
-![Image of git logo] (https://www.arsys.es/blog/wp-content/uploads/2017/06/git.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
