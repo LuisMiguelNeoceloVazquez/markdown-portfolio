@@ -1,5 +1,5 @@
-- name.md
-- image.md
-- links.md
-- lists.md
-- emphasis.md
+- name
+- image
+- links
+- lists
+- emphasis
