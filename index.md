@@ -2,20 +2,12 @@
 layout: default
 ---
 
-* 01-name.md
+- 01-name.md
 
-<br>
+- 02-image.md
 
-* 02-image.md %}
+- 03-links.md
 
-<br>
+- 04-lists.md
 
-* 03-links.md %}
-
-<br>
-
-* 04-lists.md %}
-
-<br>
-
-* 05-emphasis.md %}
+- 05-emphasis.md
