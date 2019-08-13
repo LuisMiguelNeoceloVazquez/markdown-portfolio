@@ -1,7 +1,3 @@
----
-layout: default
----
-
 - 01-name.md
 
 - 02-image.md
