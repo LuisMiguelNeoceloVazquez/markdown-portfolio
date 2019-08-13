@@ -1,5 +1,1 @@
-- name
-- image
-- links
-- lists
-- emphasis
+- item
